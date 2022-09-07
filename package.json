@@ -1,0 +1,40 @@
+{
+  "name": "fe11",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^14.4.3",
+    "axios": "^0.27.2",
+    "bootstrap": "^5.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "jwt-decode": "^3.1.2",
+    "next": "12.2.5",
+    "next-share": "^0.18.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-google-button": "^0.7.2",
+    "react-google-login": "^5.2.2",
+    "react-icons": "^4.4.0",
+    "react-player": "^2.10.1",
+    "react-redux": "^8.0.2",
+    "react-strap": "^0.0.1",
+    "react-toastify": "^9.0.8",
+    "reactstrap": "^9.1.4",
+    "redux": "^4.2.0",
+    "redux-thunk": "^2.4.1",
+    "sharp": "^0.30.7",
+    "styled-component": "^2.8.0"
+  },
+  "devDependencies": {
+    "eslint": "8.23.0",
+    "eslint-config-next": "12.2.5"
+  }
+}
